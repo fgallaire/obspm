@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Agenda</title>
+	<atom:link href="/agenda/feed/" rel="self" type="application/rss+xml" />
+	<link>/agenda/</link>
+	<description>Tout sur la mobilisation - Ecrivez nous à obspmenlutte.lesite@gmail.com</description>
+	<lastBuildDate>Tue, 19 May 2009 19:29:18 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
+	<item>
+		<title>By: Lucas P3</title>
+		<link>/agenda/comment-page-1/#comment-42</link>
+		<dc:creator><![CDATA[Lucas P3]]></dc:creator>
+		<pubDate>Mon, 30 Mar 2009 18:15:06 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1157#comment-42</guid>
+		<description><![CDATA[Slt!
+Est-ce un parcours proposé? Déposé?
+Y&#039;en a-t-il(s) d&#039;autre(s) en vue du côté des syndicats ?
+Car à part l&#039;appel aux &quot;1000 manifestations&quot; devant toute infrastructure destinée à l&#039;éducation, l&#039;enseignement et/ou la recherche vers 16h30/17h, j&#039;ai pas vu de réel parcours proposé....
+
+Merci de rép assez vite pour post!]]></description>
+		<content:encoded><![CDATA[<p>Slt!<br />
+Est-ce un parcours proposé? Déposé?<br />
+Y&#8217;en a-t-il(s) d&#8217;autre(s) en vue du côté des syndicats ?<br />
+Car à part l&#8217;appel aux &#8220;1000 manifestations&#8221; devant toute infrastructure destinée à l&#8217;éducation, l&#8217;enseignement et/ou la recherche vers 16h30/17h, j&#8217;ai pas vu de réel parcours proposé&#8230;.</p>
+<p>Merci de rép assez vite pour post!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
